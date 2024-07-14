@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1",
+    "jobRole": "Application Developer",
+    "qualification": "B.E / B.Tech",
+    "batch": "2021/2022",
+    "experience": "0 - 11 months",
+    "salary": "4.6 LPA",
+    "jobLocation": "Bangalore, Hyderabad",
+    "driveLocation": "Online (Virtual)",
+    "driveDate": "Announced later",
+    "lastDate": "-",
+    "applicationUrl": "http://example.com/apply"
+  },
+  {
+    "jobRole": "Application Developer",
+    "qualification": "B.E / B.Tech",
+    "batch": "2021/2022",
+    "experience": "0 - 11 months",
+    "salary": "4.6 LPA",
+    "jobLocation": "Bangalore, Hyderabad",
+    "driveLocation": "Online (Virtual)",
+    "driveDate": "Announced Later",
+    "lastDate": "N/A",
+    "applicationUrl": "https://company-career-portal.com/apply",
+    "id": "2024-07-14T01:44:05.653Z"
+  },
+  {
+    "jobRole": "Application Developer",
+    "qualification": "B.E / B.Tech",
+    "batch": "2021/2022",
+    "experience": "0 - 11 months",
+    "salary": "4.6 LPA",
+    "jobLocation": "Bangalore, Hyderabad",
+    "driveLocation": "Online (Virtual)",
+    "driveDate": "Announced Later",
+    "lastDate": "N/A",
+    "applicationUrl": "https://company-career-portal.com/apply",
+    "id": "2024-07-14T01:57:04.382Z"
+  },
+  {
+    "id": "2024-07-14T02:40:05.739Z",
+    "jobRole": "",
+    "qualification": "",
+    "batch": "",
+    "experience": "",
+    "salary": "",
+    "jobLocation": "",
+    "driveLocation": "",
+    "driveDate": "",
+    "lastDate": "",
+    "applicationUrl": ""
+  }
+]
