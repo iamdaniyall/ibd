@@ -3,10 +3,12 @@ import Link from 'next/link';
 import { Job } from '../types/job';
 
 interface JobListProps {
-  jobs: Job[];
+  jobs: any;
 }
 
 const JobList: React.FC<JobListProps> = ({ jobs }) => {
+  console.log({jobs});
+  
   return (
     <div className="overflow-x-auto bg-gray-100 p-4 rounded-lg shadow-lg">
       <table className="min-w-full divide-y divide-gray-200">
@@ -25,7 +27,7 @@ const JobList: React.FC<JobListProps> = ({ jobs }) => {
           </tr>
         </thead>
         <tbody className="bg-white divide-y divide-gray-200">
-          {jobs.map((job, index) => (
+          {jobs && jobs?.map((job:any, index:any) => (
             <tr key={index}>
               <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">{job.jobRole}</td>
               <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">{job.qualification}</td>
